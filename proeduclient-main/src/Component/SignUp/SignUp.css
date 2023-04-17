@@ -1,0 +1,76 @@
+.formContainer{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.formControl label{
+    display: block;
+    color: #2a414f;
+    display: block;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: .0015em;
+    line-height: 20px;
+    margin-bottom: 10px
+}
+.formControl input{
+
+    width: 420px;
+    height: 60px;
+    border-radius: 5px;
+    
+}
+.submit{
+    background: rgba(255,153,0,.3);
+    font-size: 21px;
+    font-weight: 400;
+    margin-left: 40px;
+    margin-top: 10px;
+    width: 420px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.formTitle{
+    color: #2a414f;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 42px;
+    margin: 15px;
+}
+.formControl{
+    
+    margin-left: 40px;
+    margin-bottom: 15px;
+}
+hr{
+    width: 420px;
+    margin-left: 40px !important;
+}
+.alter a{
+    text-decoration: none;
+    color: #f90;
+    margin-bottom: 0;
+
+}
+.buttonsign{
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid #95a0a7;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    height: 55px;
+    justify-content: center;
+    margin-bottom: 15px;
+    margin-left: 40px;
+    width: 415px
+}
+.buttonsign p{
+    margin: 0;
+    margin-left: 5px;
+}

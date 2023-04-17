@@ -1,0 +1,20 @@
+.box{
+
+    border-radius: 10px;
+    width: 400px;
+    background-color: rgb(245, 242, 242);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.boxImg img{
+    border-radius: 10px;    
+}
+.paybox{
+    border-radius: 10px;
+    width: 360px;
+    background-color: rgb(245, 242, 242);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.blogsBox{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
